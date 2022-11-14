@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.inputForm{
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;   
+}
+button{
+    width: 100px;
+}
